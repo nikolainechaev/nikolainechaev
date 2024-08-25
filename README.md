@@ -1,16 +1,13 @@
-## Hi there!!! 👋
+# 👋 Hi, I'm Nikolai Nechaev! 
 
-<!--
-**nikolainechaev/nikolainechaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a full-stack software developer with experience in cloud technologies and a background as an SDET. I specialize in creating robust and scalable applications using Angular, ASP.NET Core, and Azure SQL Database, with a focus on CI/CD pipelines and automated testing.
 
-Here are some ideas to get you started:
+## Skills & Technologies:
+* **Languages**: JavaScript, TypeScript, Java, C#, Python, HTML, CSS
+* **Frameworks**: Angular, ASP.NET Core, Playwright, Mocha/Chai, Grafana k6, Express.js, Vue.js
+* **Tools**: VSCode, IntelliJ, Postman, Git, Angular CLI, Swagger, GitHub Actions
+* **Concepts**: Functional/Non-functional Testing, CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Recent Projects:
+* **MotorCarrierList** :articulated_lorry: : A full-stack app for freight brokers, featuring Angular, .NET Core, Azure SQL Database, and CI/CD with GitHub Actions, secured using GitHub secrets.
+* **AllergyAlert** :sneezing_face: : A real-time allergy forecasting app using Angular, .NET Core, and multiple public APIs.
