@@ -9,5 +9,5 @@
 * **Concepts**: Functional/Non-functional Testing, CI/CD
 
 ## Recent Projects:
-* **MotorCarrierList** :articulated_lorry: : A full-stack app for freight brokers, featuring Angular, .NET Core, Azure SQL Database, and CI/CD with GitHub Actions, secured using GitHub secrets.
-* **AllergyAlert** :sneezing_face: : A real-time allergy forecasting app using Angular, .NET Core, and multiple public APIs.
+* **[MotorCarrierList](https://github.com/nikolainechaev/MotorCarrierList)** :articulated_lorry: : A full-stack app for freight brokers, featuring Angular, .NET Core, Azure SQL Database, and CI/CD with GitHub Actions, secured using GitHub secrets.
+* **[AllergyAlert](https://github.com/nikolainechaev/AllergyAlert)** :sneezing_face: : A real-time allergy forecasting app using Angular, .NET Core, and multiple public APIs.
