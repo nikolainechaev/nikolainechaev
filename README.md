@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nikolai Nechaev! 
 
-## I'm a full-stack software developer with experience in cloud technologies and a background as an SDET. I specialize in creating robust and scalable applications using Angular, ASP.NET Core, and Azure SQL Database, with a focus on CI/CD pipelines and automated testing.
+I'm a full-stack software developer with experience in cloud technologies and a background as an SDET. I specialize in creating robust and scalable applications using Angular, ASP.NET Core, and Azure SQL Database, with a focus on CI/CD pipelines and automated testing.
 
 ## Skills & Technologies :person_fencing: :
 * **Languages**: JavaScript, TypeScript, Java, C#, Python, HTML, CSS
